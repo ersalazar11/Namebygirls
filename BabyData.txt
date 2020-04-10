@@ -1,0 +1,90 @@
+Name(
+  name: "Abril",
+  description: "Origen latino procedente de "aprilis" nombre del mes de abril",
+  image: "photo-b1"
+),
+Name(
+  name: "Ada",
+  description: "Forma corta de Adelaida, que significa origen germánico y significa "de noble linaje"",
+  image: "photo-b2"
+),
+Name(
+  name: "Aina",
+  description: "Forma catalana de Anna, de origen hebreo y que significa "favor, gracia"",
+  image: "photo-b3"
+),
+Name(
+  name: "Aitana",
+  description: "Nombre de origen vasco que significa "gloria"",
+  image: "photo-b4"
+),
+Name(
+  name: "Amaia",
+  description: "Nombre vasco, Significa "principio del fin"",
+  image: "photo-b2"
+),
+Name(
+  name: "Aldara",
+  description: "Nombre de origen griego que significa "regalo alado"",
+  image: "photo-b2"
+),
+Name(
+  name: "Alexia",
+  description: "Variante de Alessa, de origen griego, significa "defensora"",
+  image: "photo-b2"
+),
+Name(
+  name: "Altea",
+  description: "Nombre de origen griego cuyo significado es "saludable"",
+  image: "photo-b2"
+),
+Name(
+  name: "Ayra",
+  description: "Su significado es noble, grande y veraz",
+  image: "photo-b2"
+),
+Name(
+  name: "Becca",
+  description: "Diminutivo de Rebecca, de origen hebreo. Significa "encantadora"",
+  image: "photo-b1"
+),
+Name(
+  name: "Bruna",
+  description: "Nombre de origen germánico, femenino de Bruno. Se traduce como "de piel morena"",
+  image: "photo-b2"
+),
+Name(
+  name: "Cala",
+  description: "Nombre de origen árabe que significa "fortaleza"",
+  image: "photo-b3"
+),
+Name(
+  name: "Cara",
+  description: "Nombre de origen italiano que significa "amada"",
+  image: "photo-b4"
+),
+Name(
+  name: "Cataleya",
+  description: "Es el nombre de una flor de la familia de las orquídeas",
+  image: "photo-b2"
+),
+Name(
+  name: "Chloe",
+  description: "Es de origen griego, y significa "hierba" o "brotes verdes"",
+  image: "photo-b2"
+),
+Name(
+  name: "Cora",
+  description: "De origen griego, Korë, latinizado en Cora. Significa "doncella, muchacha joven virgen"",
+  image: "photo-b2"
+),
+Name(
+  name: "Dacia",
+  description: "Nombre de origen latín que hace referencia a la parte del antiguo imperio romano llamado "ciudad de Dacia"",
+  image: "photo-b2"
+),
+Name(photo
+  name: "Damaris",
+  description: "De origen griego, significa "mujer dominante"",
+  image: "photo-b2"
+),

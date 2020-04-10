@@ -1,0 +1,789 @@
+Name(
+  name: "Maddox",
+  description: "Es de origen anglo galés, y el significado de Maddox es 'hijo del benefactor'",
+  image: "photo-b1"
+),
+Name(
+  name: "Mariah",
+  description: "El nombre, una variación del latín María y el hebreo Moriah, significa 'el señor es mi maestro'",
+  image: "photo-b2"
+),
+Name(
+  name: "Magalí",
+  description: "Mientras algunos autores confirman que su origen es persa significa HIJA DE LA LUZ, otros afirman que procede del hindú PERLA",
+  image: "photo-b3"
+),
+Name(
+  name: "Maggie",
+  description: "Diminutivo de Margaret, Evoca amabilidad y gentileza",
+  image: "photo-b4"
+),
+Name(
+  name: "Marina",
+  description: "Significa 'la que viene del mar o nacida del mar'",
+  image: "photo-b2"
+),
+Name(
+  name: "Marisa",
+  description: "Se podría decir que estamos ante un nombre compuesto, porque es la suma de María y de Luisa",
+  image: "photo-b2"
+),
+Name(
+  name: "Mireya",
+  description: "De procedencia indeterminada, se dice que deriva de María y de Miriam",
+  image: "photo-b2"
+),
+Name(
+  name: "Miriam",
+  description: "Es un nombre hebreo histórico y la versión más antigua y conocida de María.",
+  image: "photo-b2"
+),
+Name(
+  name: "Mónica",
+  description: "Significa 'llamar la atención' y 'única'",
+  image: "photo-b2"
+),
+Name(
+  name: "Muriel",
+  description: "Este nombre de origen irlandés, que celebra su onomástica el 1 de noviembre, significa Del mar brillante",
+  image: "photo-b1"
+),
+Name(
+  name: "Nadelina",
+  description: "Nombre de origen germánico que significa ESPIRITU NOBLE",
+  image: "photo-b2"
+),
+Name(
+  name: "Nadia",
+  description: "Nadia es el diminutivo más común del nombre ruso Nadezhna, quiere decir "esperanza"",
+  image: "photo-b3"
+),
+Name(
+  name: "Nadina",
+  description: "Nadina es la versión francesa del ruso Nadeznha, que significa "esperanza".",
+  image: "photo-b4"
+),
+Name(
+  name: "Nahum",
+  description: "Nombre de origen hebreo que significa "Dios consuela"",
+  image: "photo-b2"
+),
+Name(
+  name: "Naike",
+  description: "Nombre de origen americano que significa "flor de otoño"",
+  image: "photo-b2"
+),
+Name(
+  name: "Naomí",
+  description: ""persona que trae consuelo", "bella", "la que tiene encanto", "la que es dulce", "alegría" y "delicia"",
+  image: "photo-b2"
+),
+Name(
+  name: "Nancy",
+  description: "NNancy es el famoso diminutivo de nan, a su vez hipocorístico de Anne o Ana. Quiere decir "la benéfica", la bondadosa, aquella que hace el bien,",
+  image: "photo-b2"
+),
+Name(photo
+  name: "Natacha",
+  description: "Natacha significa "la que nació en navidad"",
+  image: "photo-b2"
+),
+Name(
+  name: "Natalia",
+  description: "Natalia es una variante de Natal. Significa "el día natalicio", refiriéndose a la fecha en la que nació Jesucristo",
+  image: "photo-b1"
+),
+Name(
+  name: "Nathalya",
+  description: "Natividad quiere decir "nacimiento". Como nombre católico es una alusión al nacimiento de María, el ocho de septiembre, y es tradicional que lo lleven las niñas nacidas ese día.
+",
+  image: "photo-b2"
+),
+Name(
+  name: "Nayara",
+  description: "FEl nombre Naara significa "la deseada"",
+  image: "photo-b3"
+),
+Name(
+  name: "Nayeli",
+  description: "El significado del nombre Nayeli es uno de los más profundos y sentidos, puesto que no significa otra cosa que "te quiero". ",
+  image: "photo-b4"
+),
+Name(
+  name: "Nayla",
+  description: "El nombre Nayla significa "la que ya ha alcanzado el triunfo".",
+  image: "photo-b2"
+),
+Name(
+  name: "Nazarena",
+  description: "Notzrí, término hebreo del que procede Nazareno, es el gentilicio de Nazaret, ciudad de Galilea. ",
+  image: "photo-b2"
+),
+Name(
+  name: "Nekane",
+  description: "Nekane es la forma vasca de Dolores, utilizada desde hace tres décadas aproximadamente. Proviene del vasco neké, "pena, dolor"",
+  image: "photo-b2"
+),
+Name(
+  name: "Nela",
+  description: "Nela es un nombre femenino de origen hebreo que significa 'Dios está con nosotros'. Es el diminutivo valenciano de Manuela",
+  image: "photo-b2"
+),
+Name(
+  name: "Nemesia",
+  description: "Nemesio proviene de la voz griega némo, "distribuir, repartir, vengar". Nemesio es "el justiciero", el que acomete la distribución de las cualidades, el que le otorga a cada uno lo que merece",
+  image: "photo-b2"
+),
+Name(
+  name: "Nerea",
+  description: "Neréa es la forma femenina de Nereo. La etimología de este nombre no es clara; se le intenta emparentar con el griego náo, "fluir, nadar, navegar"",
+  image: "photo-b1"
+),
+Name(
+  name: "Nereida",
+  description: "Nereida es la "hija de Nereo". La etimología de este nombre no es clara; se le intenta emparentar con el griego náo, "fluir, nadar, navegar"",
+  image: "photo-b2"
+),
+Name(
+  name: "Nerina",
+  description: "Nerina es una de las nereidas, es decir, una de las ninfas de los mares interiores, hija de Nereo",
+  image: "photo-b3"
+),
+Name(
+  name: "Nicerata",
+  description: "Nicerata tiene un significado muy agradable; formado por las voces griegas níke, "victoria", y èrátos, "amado, querido" es "el amado por la victoria", el victorioso que es apreciado",
+  image: "photo-b4"
+),
+Name(
+  name: "Nicolasa",
+  description: "Nicolasa significa "el vencedor del pueblo". Proviene de la unión de las voces griegas níke, "victoria", y laos, "pueblo".",
+  image: "photo-b2"
+),
+Name(
+  name: "Nicole",
+  description: "El nombre Nicole tiene un significado muy bonito, pues proviene de dos términos griegos con un significado muy especial.",
+  image: "photo-b2"
+),
+Name(
+  name: "Nidia",
+  description: "Nidia es un nombre de origen literario; es la muchacha ciega que salva a Glauco en "Los últimos días de Pompeya" de Bulwer-Lytton",
+  image: "photo-b2"
+),
+Name(
+  name: "Nieves",
+  description: "Nieves es una de las advocaciones a la virgen María; Nuestra Señora de las Nieves",
+  image: "photo-b2"
+),
+Name(photo
+  name: "Nila",
+  description: "Nilo, Nilus en latín y Neilos en griego, es el rio más famoso históricamente. El término procede del hebreo nalus, que quiere decir "rio". Deriva de la antigua raiz nao, "fluir, navegar, nadar"",
+  image: "photo-b2"
+),
+Name(
+  name: "Nilda",
+  description: "Nilda es la abreviación común de Brunilda. Significa por su raíz germánico-gótica brun,"de piel oscura, rojiza, quemada", y por su aproximación al latín prunja quiere decir "coraza"",
+  image: "photo-b1"
+),
+Name(
+  name: "Nina",
+  description: "El nombre Nina significa "la bondadosa"",
+  image: "photo-b2"
+),
+Name(
+  name: "Ninfa",
+  description: "Ninfa procede de la voz griega nínfe, "la ninfa", "la novia". La ninfa era una especie de deidad inferior que solía habitar los rios, los montes o los valles.",
+  image: "photo-b3"
+),
+Name(
+  name: "Niobe",
+  description: "El nombre femenino Niobe significa 'la que rejuvenece' y tiene un origen griego.",
+  image: "photo-b4"
+),
+Name(
+  name: "Nora",
+  description: "Nora es la abreviación inglesa de Eleonora e irlandesa de Honora",
+  image: "photo-b2"
+),
+Name(
+  name: "Nunila",
+  description: "Nunila es el diminutivo femenino de Nunius. Procede del latín nonus, "el noveno".",
+  image: "photo-b2"
+),
+Name(
+  name: "Nydia",
+  description: "Nydia es una de las variantes gráficas de Nidia. Nydia es un nombre de origen literario; es la muchacha ciega que salva a Glauco en "Los últimos días de Pompeya" de Bulwer-Lytton",
+  image: "photo-b2"
+),
+Name(
+  name: "Obdulia",
+  description: "Obdulia es la forma latinizada del árabe Abdullah, formado por abd, "siervo, esclavo", y allah, "Dios"",
+  image: "photo-b2"
+),
+Name(
+  name: "Oberta",
+  description: "Oberta es un nombre formado por las voces germánicas od, "riqueza, bienes, propiedad", y berth, "brillo, luz, resplandor". ",
+  image: "photo-b2"
+),
+Name(
+  name: "Ocotlana",
+  description: "Ocotlán es el único nombre de origen nathuatl que ha llegado a nuestros días. Quiere decir "junto al árbol de las teas", es decir, "junto a los ocotes" o "junto al pinar"",
+  image: "photo-b1"
+),
+Name(
+  name: "Octavia",
+  description: "Octavia procede del latín octo, "ocho". Su traducción es "el octavo nacido", refiriéndose al octavo miembro nacido en la familia.",
+  image: "photo-b2"
+),
+Name(
+  name: "Octaviana",
+  description: "Octaviana es el patronímico de Octavia. Octavia procede del latín octo, "ocho". Su traducción es "el octavo nacido", refiriéndose al octavo miembro nacido en la familia.
+",
+  image: "photo-b3"
+),
+Name(
+  name: "Oda",
+  description: "Oda es la foma femenina de Odo u Otto, variantes ambas de Otton ",
+  image: "photo-b4"
+),
+Name(
+  name: "Odette",
+  description: "Odette es la forma femenina francesa de Odón, o lo que es lo mismo, Otton.",
+  image: "photo-b2"
+),
+Name(
+  name: "Odila",
+  description: "Odila es el diminutivo germánico de Oda, que procede a su vez de Otton",
+  image: "photo-b2"
+),
+Name(
+  name: "Olaya",
+  description: "Olaya es una de las variantes de Eulalia, que significa "la bien hablada", aquella que utiliza el lenguaje de forma apropiada, la elocuente y persuasiva.",
+  image: "photo-b2"
+),
+Name(
+  name: "Olimpia",
+  description: "Olimpia es "el perteneciente al Olimpo", es decir, el que habita en la morada de los dioses. ",
+  image: "photo-b2"
+),
+Name(
+  name: "Oliva",
+  description: "Oliva significa "aceituna, olivo"",
+  image: "photo-b2"
+),
+Name(
+  name: "Ona",
+  description: "El nombre femenino Ona es una abreviación de Mariona, que es una variante del nombre María",
+  image: "photo-b2"
+),
+Name(
+  name: "Oriana",
+  description: "La etimología del nombre de Oriana no es clara",
+  image: "photo-b2"
+),
+Name(
+  name: "Orlanda",
+  description: "DNombre formado por las voces hruot, que quiere decir "fama", y land, "país, tierra"",
+  image: "photo-b1"
+),
+Name(
+  name: "Ozana",
+  description: "zana corresponde a la interjección litúrgica hebrea ¡hoshana!, "¡salve (Dios)!",
+  image: "photo-b2"
+),
+Name(
+  name: "Paladia",
+  description: "Paladio es "lo relativo a Palas", o a Minerva, la diosa de la sabiduría y la inteligencia.",
+  image: "photo-b3"
+),
+Name(
+  name: "Palmira",
+  description: "Palmira es un derivado de palma, con varios significados; "la parte inferior de la mano", "la parte del tronco donde salen las ramas" y, concretamente, "el tronco de la palmera"",
+  image: "photo-b4"
+),
+Name(
+  name: "Pamela",
+  description: "Pamela es un nombre inventado por el poeta inglés Felipe Sidney en "Arcadia" (1590). ",
+  image: "photo-b2"
+),
+Name(
+  name: "Paola",
+  description: "De origen latino. Significa "la pequeña".Es comunicativa, sociable y agradable en su trato con los demás. Es fiel a sus convicciones e ideales",
+  image: "photo-b2"
+),
+Name(
+  name: "Parisia",
+  description: "DParisia es una de las variantes de Paris. Paris tiene su correspondencia griega en Páris, pero es un nombre de origen prehelénico",
+  image: "photo-b2"
+),
+Name(
+  name: "Patricia",
+  description: "Patricia es el descendiente de los primeros senadores que nombraron Rómulo y Remo en la fundación de Roma. Su sentido es principalmente jurídico; "aquel de padre libre o noble"",
+  image: "photo-b2"
+),
+Name(
+  name: "Paula",
+  description: "El nombre Paula significa "pequeña"",
+  image: "photo-b2"
+),
+Name(
+  name: "Paulina",
+  description: "Paulina es una variante de Paulus o Pablo, que significa "el pequeño"",
+  image: "photo-b2"
+),
+Name(
+  name: "Paz",
+  description: "Paz proviene del latín pax, "paz". Es la mujer pacífica, tranquila, segura y constante.",
+  image: "photo-b2"
+),
+Name(
+  name: "Peony",
+  description: "Peony es un nombre femenino que significa flor y proviene del griego",
+  image: "photo-b1"
+),
+Name(
+  name: "Perla",
+  description: "Perla es un derivado del latín popular perna, que se refiere al hueso del anca con el muslo",
+  image: "photo-b2"
+),
+Name(
+  name: "Pia",
+  description: "Pia proviene de la forma latina pius, "piedad"",
+  image: "photo-b3"
+),
+Name(
+  name: "Pilar",
+  description: "Pilar, como nombre de pila femenino, es una de las advocaciones aragonesas de la Virgen María; Nuestra Señora del Pilar",
+  image: "photo-b4"
+),
+Name(
+  name: "Práxedes",
+  description: "Práxedes proviene del término griego praxis, "acción, práctica, empresa, éxito"",
+  image: "photo-b2"
+),
+Name(
+  name: "Queralt",
+  description: "Queralt es un nombre catalán que procede de la advocación mariana de "Santa María de Queralt"",
+  image: "photo-b2"
+),
+Name(
+  name: "Queta",
+  description: "Queta es la forma hipocorística de Enriqueta, la forma femenina de Enrique",
+  image: "photo-b2"
+),
+Name(
+  name: "Rafaela",
+  description: "El nombre Rafaela significa "Dios ha sanado"",
+  image: "photo-b2"
+),
+Name(photo
+  name: "Raziel",
+  description: "Raziel, como muchos otros nombres hebreos, es un nombre de pila consagrado a un significado religioso. Quiere decir "mi secreto es Dios"",
+  image: "photo-b2"
+),
+Name(
+  name: "Rebeca",
+  description: "Rebeca es "el nudo corredizo", terminología que deriva de rabak, "atar". Este nombre se refiere probablemente a la seguridad y unión del lazo matrimonial",
+  image: "photo-b2"
+),
+Name(
+  name: "Regina",
+  description: "La traducción literal del nombre Regina es "reina".",
+  image: "photo-b2"
+),
+Name(
+  name: "Renata",
+  description: "El nombre Renata significa "nacida de nuevo", "renacida" o "nacida por segunda vez".",
+  image: "photo-b1"
+),
+Name(
+  name: "René",
+  description: "René es la forma francesa de Renato. Renato/a quiere decir "el vuelto a nacer", "el nacido por segunda vez"",
+  image: "photo-b2"
+),
+Name(
+  name: "Ricarda",
+  description: "Ricarda es uno de los más tradicionales nombre germánicos con un uso muy extendido, Procede de la unión de las voces rich, JEFE, PRINCIPE, AUDAZ, FUERTE",
+  image: "photo-b3"
+),
+Name(
+  name: "Rigoberta",
+  description: "Rigoberta está formado por la unión de las voces germánicas rik, "jefe, poder, caudillo, príncipe", y berht, "resplandor, brillo, destello"",
+  image: "photo-b4"
+),
+Name(
+  name: "Rita",
+  description: "Rita es uno de los diminutivos de uso independiente, aunque procede del nombre de pila Margarita",
+  image: "photo-b2"
+),
+Name(
+  name: "Roberta",
+  description: "Roberta es el nombre de origen germánico que se ha extendido a nivel universal",
+  image: "photo-b2"
+),
+Name(
+  name: "Rogata",
+  description: "Rogata procede del latín rogata, "súplica, ruego, petición"",
+  image: "photo-b2"
+),
+Name(
+  name: "Romana",
+  description: "Romana es una de las variantes femeninas de Romano o romanus, quiere decir "el perteneciente a Roma", "el romano"",
+  image: "photo-b2"
+),
+Name(photo
+  name: "Romina",
+  description: "El nombre femenino Romina posee dos significados: el primero es "mujer que viene de Roma" y el segundo es "de la tierra de cristianos"",
+  image: "photo-b2"
+),
+Name(
+  name: "Rosalba",
+  description: "Rosalba significa LA ROSA BLANCA",
+  image: "photo-b2"
+),
+Name(
+  name: "Rosana",
+  description: "Rosana es un nombre híbrido; es la combinación entre el latín Rosa y el hebreo Hannah o Ana",
+  image: "photo-b2"
+),
+Name(
+  name: "Rosaura",
+  description: "Rosaura procede de la unión de las dos voces latinas rosa y aura, es decir, "la rosa dorada"",
+  image: "photo-b1"
+),
+Name(
+  name: "Roxana",
+  description: "Roxana es un nombre híbrido; es la combinación entre el latín Rosa y el hebreo Hannah o Ana",
+  image: "photo-b2"
+),
+Name(
+  name: "Rubí",
+  description: "El nombre femenino Rubí significa literalmente "rojo"",
+  image: "photo-b3"
+),
+Name(
+  name: "Rut",
+  description: "Ruth o Rut ha sido interpretado como "belleza", "contemplación de la belleza"",
+  image: "photo-b4"
+),
+Name(
+  name: "Sabrina",
+  description: ""Princesa." De origen anglosajón.Es desinteresada, intuitiva, ordenada y atenta con los demás",
+  image: "photo-b2"
+),
+Name(
+  name: "Safira",
+  description: "Safira procede del bajo latín Sapphirus, que quiere decir "zafiro"",
+  image: "photo-b2"
+),
+Name(
+  name: "Sakae",
+  description: "DSakae es un nombre femenino de origen japonés que significa 'prosperidad'",
+  image: "photo-b2"
+),
+Name(
+  name: "Samanta",
+  description: "Samanta significa "la que sabe escuchar" o "la destinada a escuchar"",
+  image: "photo-b2"
+),
+Name(photo
+  name: "Samara",
+  description: "Samara es un nombre bíblico que significa "la protegida de…
+",
+  image: "photo-b2"
+),
+Name(
+  name: "Sandra",
+  description: "ignifica por la conjunción de sus raices "apartar, rechazar", "fuerza" y "hombre"",
+  image: "photo-b2"
+),
+Name(
+  name: "Sara",
+  description: "Sara, nombre de origen hebreo, significa literalmente "princesa"",
+  image: "photo-b2"
+),
+Name(
+  name: "Saskia",
+  description: "El nombre Saskia significa "protectora de la humanidad"",
+  image: "photo-b2"
+),
+Name(
+  name: "Saula",
+  description: "Del hebreo shaul es "la deseada", "aquella que es solicitada", "la elegida", "la esperada"",
+  image: "photo-b2"
+),
+Name(
+  name: "Scarlett",
+  description: "l nombre femenino Scarlett significa claramente "de color rojo escarlata" o "color rojo intenso"",
+  image: "photo-b1"
+),
+Name(
+  name: "Selena",
+  description: "El nombre Selena significa "la mujer de la luz"",
+  image: "photo-b2"
+),
+Name(
+  name: "Selene",
+  description: "Procede del término sélas, "luz, resplandor, brillo"",
+  image: "photo-b3"
+),
+Name(
+  name: "Serena",
+  description: "Serena es la persona "tranquila, calmada, clara, serena".",
+  image: "photo-b4"
+),
+Name(
+  name: "Sharon",
+  description: "l nombre de Sharon en hebreo significa, literalmente, llanura.",
+  image: "photo-b2"
+),
+Name(
+  name: "Sheila",
+  description: ""La que habita en las alturas". De origen irlandés.",
+  image: "photo-b2"
+),
+Name(
+  name: "Shirley",
+  description: "El nombre femenino Shirley significa 'brillante aclaramiento' y proviene del inglés antiguo",
+  image: "photo-b2"
+),
+Name(
+  name: "Silvana",
+  description: "Silvana procede de la tradición romana, Silvano era una deidad campestre, protectora de los bosques y campos",
+  image: "photo-b2"
+),
+Name(photo
+  name: "Simoneta",
+  description: "De origen arameo. Derivado de “Shimeon” significa "aquel que escucha y obedece a Dios". En su forma masculina Simeón",
+  image: "photo-b2"
+),
+Name(
+  name: "Sofía",
+  description: "NEl nombre de Sofía significa "sabiduría"",
+  image: "photo-b1"
+),
+Name(
+  name: "Sol",
+  description: ""Que tiene una fe luminosa". De origen latino.",
+  image: "photo-b2"
+),
+Name(
+  name: "Sujey",
+  description: "El nombre Sujey significa "estrella pequeña"",
+  image: "photo-b3"
+),
+Name(
+  name: "Syra",
+  description: "ESyrus es "el perteneciente a Siria", "el sirio".",
+  image: "photo-b4"
+),
+Name(
+  name: "Tabaré",
+  description: "Tabaré procede de la unión de taba, "pueblo", y la conjunción re, "después"",
+  image: "photo-b2"
+),
+Name(
+  name: "Tabita",
+  description: "Tabita es uno de los pocos nombres de origen arameo que se conservan en la actualidad. Su significado es "gacela"",
+  image: "photo-b2"
+),
+Name(
+  name: "Tamara",
+  description: "Tamara es un nombre de origen hebreo que significa "palmera de dátiles"" de Bulwer-Lytton",
+  image: "photo-b2"
+),
+Name(
+  name: "Tatiana",
+  description: "Tatiana es la caligrafía rusa de Taciana,que a su vez procede de Tatius",
+  image: "photo-b2"
+),
+Name(
+  name: "Thais",
+  description: "de origen griego bastante común en países de Europa como Francia, España o Italia, además de Grecia",
+  image: "photo-b2"
+),
+Name(
+  name: "Tirza",
+  description: "irza es un nombre con un sentido delicado y bello, significa "agrado, delicia"",
+  image: "photo-b1"
+),
+Name(
+  name: "Tisbe",
+  description: "Tisbe tiene un origen exclusivamente mitológico; es la joven babilonia amante de Píramo, caracterizada por su belleza y sensibilidad",
+  image: "photo-b2"
+),
+Name(
+  name: "Octaviana",
+  description: "Octaviana es el patronímico de Octavia. Octavia procede del latín octo, "ocho". Su traducción es "el octavo nacido", refiriéndose al octavo miembro nacido en la familia.
+",
+  image: "photo-b3"
+),
+Name(
+  name: "Ursina",
+  description: "Ursina es la forma patronímica de Ursus o Ursu; "lo relativo al oso"",
+  image: "photo-b4"
+),
+Name(
+  name: "Uziel",
+  description: "El nombre Uziel significa "Dios es mi fuerza"",
+  image: "photo-b2"
+),
+Name(
+  name: "Wendy",
+  description: "El nombre Wendy tiene un significado muy bonito, ya que significa "la de las bancas pestañas"",
+  image: "photo-b2"
+),
+Name(
+  name: "Whitney",
+  description: "Nombre de origen anglosajón que significa "isla blanca"",
+  image: "photo-b2"
+),
+Name(
+  name: "Valentina",
+  description: "El nombre Valentina significa "valerosa", es decir, "valiente".",
+  image: "photo-b2"
+),
+Name(
+  name: "Valeria",
+  description: "El nombre Valeria significa "La que es valerosa y sana",
+  image: "photo-b2"
+),
+Name(
+  name: "Valeska",
+  description: "El nombre femenino Valeska significa "mujer fuerte y valiente" ",
+  image: "photo-b2"
+),
+Name(
+  name: "Vanesa",
+  description: "Un nombre moderno, el significado más aproximado es la que lleva a la victoria",
+  image: "photo-b2"
+),
+Name(
+  name: "Vera",
+  description: "El nombre Vera significa "fe"",
+  image: "photo-b1"
+),
+Name(
+  name: "Verónica",
+  description: "Verónica es una de las variantes de Berenice, "la que lleva la victoria"",
+  image: "photo-b2"
+),
+Name(
+  name: "Victoria",
+  description: "El nombre Victoria significa "la mujer triunfadora"",
+  image: "photo-b3"
+),
+Name(
+  name: "Violeta",
+  description: "Violeta es el diminutivo de Viola, "violetita". "la hermosa y joven"",
+  image: "photo-b4"
+),
+Name(
+  name: "Vladimira",
+  description: "Su interpretación es "el señor del mundo", "el que gobierna la totalidad"",
+  image: "photo-b2"
+),
+Name(
+  name: "Yadira",
+  description: "El significado del nombre femeino Yamileth es hermosa, bella o linda",
+  image: "photo-b2"
+),
+Name(
+  name: "Yamileth",
+  description: "El significado del nombre femeino Yamileth es hermosa, bella o linda",
+  image: "photo-b2"
+),
+Name(
+  name: "Yanina",
+  description: "Significa 'la llena de gracia de Dios'",
+  image: "photo-b2"
+),
+Name(
+  name: "Yanira",
+  description: "EEl significado del nombre "Yanira" es: "Regalo de Dios"",
+  image: "photo-b2"
+),
+Name(
+  name: "Yaritza",
+  description: "Yaritza significa encantadora y protectora",
+  image: "photo-b2"
+),
+Name(
+  name: "Yésica",
+  description: "El nombre de Yésica significa "la protegida de Dios"",
+  image: "photo-b2"
+),
+Name(
+  name: "Yeudiel",
+  description: "Quiere decir "le doy gracias a Dios", y era una forma de alabanza común a Yahvé"
+),
+Name(
+  name: "Yolanda",
+  description: "Significa "la riqueza del pais", "la tierra fructífera".",
+  image: "photo-b2"
+),
+Name(
+  name: "Yuri",
+  description: "El nombre femenino Yuri es la forma rusa de Georgina. Proviene del griego y significa 'persona que trabaja la tierra' o 'granjero",
+  image: "photo-b3"
+),
+Name(
+  name: "Yvette",
+  description: "Yvette significa "la arquera"",
+  image: "photo-b4"
+),
+Name(
+  name: "Yvonne",
+  description: "Yvonne es un tradicional nombre francés, es el femenino de Yvón.",
+  image: "photo-b2"
+),
+Name(
+  name: "Xanat",
+  description: "Tiene un significado muy hermoso; "flor, vainilla"",
+  image: "photo-b2"
+),
+Name(
+  name: "Xenia",
+  description: "Se traduce como "la hospitalaria"; la mujer acogedora y amable",
+  image: "photo-b2"
+),
+Name(
+  name: "Ximena",
+  description: "Ximena es una de las variantes de Jimena, que es la forma de Simeona en el español antiguo",
+  image: "photo-b2"
+),
+Name(photo
+  name: "Xiomara",
+  description: "REl nombre femenino Xiomara deriva del árabe "Siomara" y significa literalmente "la estrella más hermosa del universo"",
+  image: "photo-b2"
+),
+Name(
+  name: "Xóchil",
+  description: "Xóchil quiere decir en náthuatl "flor", y metafóricamente "canto".",
+  image: "photo-b2"
+),
+Name(
+  name: "Xuxa",
+  description: "Nombre de origen hebreo. Variante de Susana",
+  image: "photo-b2"
+),
+Name(
+  name: "Zea",
+  description: "EEl nombre femenino Zea significa 'semilla', 'grano' y es de origen latino",
+  image: "photo-b1"
+),
+Name(
+  name: "Zoé",
+  description: "Zoé es un nombre que proviene del griego, del término «Ζωή», que significa "vida", "mujer llena de vida" y "que aporta vitalidad".
+",
+  image: "photo-b2"
+),
+Name(
+  name: "Zoraida",
+  description: "Zoraida es el diminutivo árabe de Zaradat",
+  image: "photo-b3"
+),
+Name(
+  name: "Zuria",
+  description: "Nombre de origen vasco que significa "resplandeciente"",
+  image: "photo-b4"
+),
